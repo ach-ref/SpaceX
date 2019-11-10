@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  SpaceX
+
+  Created by Achref Marzouki on 09/11/2019.
+  Copyright © 2019 Achref Marzouki. All rights reserved.
+*/
+
+/** General ---------------------------------------- */
+"general.yes" = "Oui";
+"general.no" = "Non";
+"general.cancel" = "Annuler";
+"general.ok" = "Ok";
+"general.warning" = "Attention";
+
+/** Launches --------------------------------------- */
+"launches.title" = "Lancements";
+
+
+/** Filter ----------------------------------------- */
+"filter.title" = "Filtrer les lancements";
+"filter.launchSuccess" = "Afficher uniquement les lancements réussis";
+"filter.sort" = "Trier";
+"filter.ascending" = "Ascendant";
+"filter.filter" = "Filtrer";
+"filter.launchDateSort" = "Trier par date de lancement";
+"filter.missionNameSort" = "Trier par nom de mission";
+"filter.reset" = "Réinitialiser";
+
+
+/** Launch details --------------------------------- */
+"detail.success" = "Succès";
+"detail.fail" = "Échec";
+"detail.date %@" = "Date : %@";
+"detail.site %@" = "Site : %@";
+"detail.name" = "Nom";
+"detail.active" = "Active";
+"detail.country" = "Pays";
+"detail.company" = "Entreprise";
+"detail.successRate" = "Taux de succès";
+"detail.firstFlight" = "Premier vol";
+"detail.moreInfo" = "Plus d'information";
+"detail.wikiLink" = "Page wikipedia";
+"detail.stagesNumber" = "Nombre d'étages";
+"detail.enginesNumber" = "Nombre de moteurs";
+"detail.landingLegs" = "Nombre de trains d'atterrissage";
+"detail.height" = "Hauteur";
+"detail.diameter" = "Diamètre";
+"detail.mass" = "Masse";
+"detail.launch" = "Lancement";
+"detail.rocketGeneralInfo" = "Info générales de la fusée";
+"detail.rocketStructure" = "Structure de la fusée";
+"detail.rocketDimensions" = "Dimensions de la fusée";
+"detail.openInSafari" = "Ouvrir dans Safari";
+"detail.openInApp" = "Ouvrir dans l'application";
+"detail.wikipedia" = "Wikipedia";
+"detail.openInSafari.failMessage" = "Il est impossible d'ouvrir ce lien dans Safari. Veuillez réessayer plus tard ou bien contacter le support si le problème persiste.";

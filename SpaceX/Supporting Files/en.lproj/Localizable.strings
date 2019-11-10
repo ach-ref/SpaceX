@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  SpaceX
+
+  Created by Achref Marzouki on 09/11/2019.
+  Copyright © 2019 Achref Marzouki. All rights reserved.
+*/
+
+/** General ---------------------------------------- */
+"general.yes" = "Yes";
+"general.no" = "No";
+"general.cancel" = "Cancel";
+"general.ok" = "Ok";
+"general.warning" = "Warning";
+
+
+/** Launches --------------------------------------- */
+"launches.title" = "Launches";
+
+
+/** Filter ----------------------------------------- */
+"filter.title" = "Filter launches";
+"filter.launchSuccess" = "Show only successful launches";
+"filter.sort" = "Sort";
+"filter.ascending" = "Ascending";
+"filter.filter" = "Filter";
+"filter.launchDateSort" = "Sort by launch date";
+"filter.missionNameSort" = "Sort by mission name";
+"filter.reset" = "Reset all";
+
+
+/** Launch details --------------------------------- */
+"detail.success" = "Successful";
+"detail.fail" = "Failed";
+"detail.date %@" = "Date : %@";
+"detail.site %@" = "Site : %@";
+"detail.name" = "Name";
+"detail.active" = "Active";
+"detail.country" = "Country";
+"detail.company" = "Company";
+"detail.successRate" = "Success rate";
+"detail.firstFlight" = "First flight";
+"detail.moreInfo" = "More info";
+"detail.wikiLink" = "Wikipedia page";
+"detail.stagesNumber" = "Stages number";
+"detail.enginesNumber" = "Engines number";
+"detail.landingLegs" = "Landing legs";
+"detail.height" = "Height";
+"detail.diameter" = "Diameter";
+"detail.mass" = "Mass";
+"detail.launch" = "Launch";
+"detail.rocketGeneralInfo" = "Rocket general info";
+"detail.rocketStructure" = "Rocket structure";
+"detail.rocketDimensions" = "Rocket dimensions";
+"detail.openInSafari" = "Open with Safari";
+"detail.openInApp" = "Open in-App";
+"detail.wikipedia" = "Wikipedia";
+"detail.openInSafari.failMessage" = "It is impossible to open the requested link in Safari. Please try agin later or contact the support if the problem persits.";
